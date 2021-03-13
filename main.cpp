@@ -19,7 +19,7 @@ int main()
 {
     while(1)
     {
-        cout<<"To quit press 1 otherwise 0"<<endl;
+        cout<<"To quit press 1 otherwise press 0"<<endl;
         int c;
         cin>>c;
         if(c==0)
